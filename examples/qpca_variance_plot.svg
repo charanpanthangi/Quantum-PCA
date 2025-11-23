@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <title>Variance explained placeholder</title>
+  <rect width="400" height="200" fill="#f7f7f7" />
+  <polyline points="50,170 150,120 250,80 350,60" fill="none" stroke="#4c72b0" stroke-width="3" />
+  <circle cx="50" cy="170" r="5" fill="#4c72b0" />
+  <circle cx="150" cy="120" r="5" fill="#4c72b0" />
+  <circle cx="250" cy="80" r="5" fill="#4c72b0" />
+  <circle cx="350" cy="60" r="5" fill="#4c72b0" />
+  <text x="20" y="30" font-size="16" fill="#333">Cumulative variance (example)</text>
+</svg>

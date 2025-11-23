@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <title>State visualization placeholder</title>
+  <rect width="400" height="300" fill="#f7f7f7" />
+  <text x="20" y="30" font-size="16" fill="#333">Bloch sphere projection (example)</text>
+  <circle cx="200" cy="150" r="100" fill="none" stroke="#999" stroke-width="2" />
+  <circle cx="220" cy="90" r="6" fill="#4c72b0" />
+  <circle cx="160" cy="140" r="6" fill="#55a868" />
+  <circle cx="250" cy="200" r="6" fill="#c44e52" />
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <title>qPCA eigenvalues placeholder</title>
+  <rect width="400" height="200" fill="#f7f7f7" />
+  <text x="20" y="30" font-size="16" fill="#333">Eigenvalues (sample output)</text>
+  <rect x="60" y="80" width="40" height="100" fill="#4c72b0" />
+  <rect x="140" y="110" width="40" height="70" fill="#55a868" />
+  <rect x="250" y="120" width="40" height="60" fill="#c44e52" />
+</svg>
